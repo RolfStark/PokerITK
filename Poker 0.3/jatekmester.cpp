@@ -1,8 +1,6 @@
 #include "jatekmester.hpp"
 #include <iostream>
 
-#include "kepbetolto.hpp"
-
 using namespace genv;
 
 Jatekmester::Jatekmester()
