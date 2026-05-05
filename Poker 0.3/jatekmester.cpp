@@ -1,8 +1,7 @@
-#include "../Header/jatekmester.hpp"
-#include "../../Konyvwidget/Header/Kwidgets.hpp"
+#include "jatekmester.hpp"
 #include <iostream>
 
-#include "../Header/Grafikai/kepbetolto.hpp"
+#include "kepbetolto.hpp"
 
 using namespace genv;
 
