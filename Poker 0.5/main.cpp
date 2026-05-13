@@ -1,6 +1,6 @@
 #include "graphics.hpp"
 #include "jatekmester.hpp"
-#include "Grafikai/kepbetolto.hpp"
+#include "kepbetolto.hpp"
 #include <vector>
 #include <iostream>
 
