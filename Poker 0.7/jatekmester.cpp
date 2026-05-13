@@ -1,6 +1,6 @@
-#include "../Header/jatekmester.hpp"
+#include "jatekmester.hpp"
 #include <iostream>
-#include "../Header/Grafikai/kepbetolto.hpp"
+#include "kepbetolto.hpp"
 #include "graphics.hpp"
 
 using namespace genv;
