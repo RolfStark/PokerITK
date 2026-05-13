@@ -1,6 +1,6 @@
 #include "graphics.hpp"
-#include "Bercilib/Header/jatekmester.hpp"
-#include "Bercilib/Header/Grafikai/kepbetolto.hpp"
+#include "jatekmester.hpp"
+#include "Grafikai/kepbetolto.hpp"
 #include <vector>
 #include <iostream>
 
