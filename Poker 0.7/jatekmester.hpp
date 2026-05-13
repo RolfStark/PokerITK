@@ -2,7 +2,7 @@
 #define CLIONGRAPHICSKIT_JATEKMESTER_HPP
 
 #include "graphics.hpp"
-#include "Grafikai/kepbetolto.hpp"
+#include "kepbetolto.hpp"
 
 using namespace std;
 
