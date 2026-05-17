@@ -501,12 +501,12 @@ int Jatekmester::alap(float ind) {
             if (ev.type == ev_mouse && ev.button == btn_left && ij > 9) {
                 _great = false;
                 _skip = false;
-                if (_hmax == 0)
+                if (_hmax <= 0)
                 {
                     _you_won = 1;
                     _is_over = true;
                 }
-                else if (_ymax == 0)
+                else if (_ymax <= 0)
                 {
                     _you_won = 2;
                     _is_over = true;
@@ -518,7 +518,7 @@ int Jatekmester::alap(float ind) {
 
 
 
-        if (_ymax == 0 or _hmax == 0) {
+        if (_ymax <= 0 or _hmax <= 0) {
             _res;
         }
         if (ev.type == ev_key && ev.keycode > 0 && ev.keycode == key_escape)
