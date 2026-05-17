@@ -1,5 +1,5 @@
 #include "graphics.hpp"
-#include "../../Header/Grafikai/elemek.hpp"
+#include "elemek.hpp"
 #include <iostream>
 
 using namespace genv;
