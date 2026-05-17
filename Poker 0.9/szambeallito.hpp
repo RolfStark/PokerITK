@@ -1,7 +1,7 @@
 #ifndef CLIONGRAPHICSKIT_SZAMBEALLITO_HPP
 #define CLIONGRAPHICSKIT_SZAMBEALLITO_HPP
 
-#include "../Grafikai/widgetbe2.hpp"
+#include "widgetbe2.hpp"
 
 class Szambeallito : public Widget2{
 public:
