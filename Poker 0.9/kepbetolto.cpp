@@ -1,4 +1,4 @@
-#include "../../Header/Grafikai/kepbetolto.hpp"
+#include "kepbetolto.hpp"
 #include "graphics.hpp"
 
 #include <iostream>
