@@ -1,10 +1,10 @@
-#include "../Header/jatekmester.hpp"
+#include "jatekmester.hpp"
 #include "graphics.hpp"
 
 
 #include <iostream>
 
-#include "../Header/Grafikai/kivalaszto.hpp"
+#include "kivalaszto.hpp"
 
 using namespace genv;
 
