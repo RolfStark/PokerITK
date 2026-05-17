@@ -1,4 +1,4 @@
-#include "../../Header/Grafikai/widgetbe2.hpp"
+#include "widgetbe2.hpp"
 #include "graphics.hpp"
 #include <iostream>
 using namespace genv;
