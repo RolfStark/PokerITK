@@ -1,4 +1,4 @@
-#include "../../Header/Grafikai/szambeallito.hpp"
+#include "szambeallito.hpp"
 #include <iostream>
 
 
