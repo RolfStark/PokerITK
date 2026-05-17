@@ -2,10 +2,10 @@
 #define CLIONGRAPHICSKIT_JATEKMESTER_HPP
 
 #include "graphics.hpp"
-#include "kepbetolto.hpp"
-#include "button.hpp"
-#include "szambeallito.hpp"
-#include "kivalaszto.hpp"
+#include "Grafikai/kepbetolto.hpp"
+#include "Grafikai/button.hpp"
+#include "Grafikai/szambeallito.hpp"
+#include "Grafikai/kivalaszto.hpp"
 
 using namespace std;
 
