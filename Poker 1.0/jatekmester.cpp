@@ -1,10 +1,10 @@
-#include "jatekmester.hpp"
+#include "../Header/jatekmester.hpp"
 #include "graphics.hpp"
 
 
 #include <iostream>
 
-#include "kivalaszto.hpp"
+#include "../Header/Grafikai/kivalaszto.hpp"
 
 using namespace genv;
 
@@ -27,8 +27,8 @@ void Grafika::score(int a, int b)
 
 void Grafika::choose(int a, string b)
 {
-    gout << move_to(125,200) << color(0,0,0) << box_to(500,325);
-    gout << move_to(125,210) << color(255,255,0)
+    gout << move_to(100,200) << color(0,0,0) << box_to(530,325);
+    gout << move_to(100,210) << color(255,255,0)
     << font("PixelifySans.ttf", 50);
     if (a == 0)
     {
