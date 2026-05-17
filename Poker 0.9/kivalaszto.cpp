@@ -1,7 +1,7 @@
-#include "../../Header/Grafikai/kivalaszto.hpp"
+#include "kivalaszto.hpp"
 #include <iostream>
 #include <vector>
-#include "../../Header/Grafikai/elemek.hpp"
+#include "elemek.hpp"
 
 using namespace genv;
 
