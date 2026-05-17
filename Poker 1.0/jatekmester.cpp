@@ -267,6 +267,7 @@ int Jatekmester::menu(float &ind)
             _hmax = 10000;
             _ymax = 10000;
             ind = 1.0;
+            who_won = 0;
             _is_over = false;
             return 0;
         }
@@ -481,6 +482,7 @@ int Jatekmester::alap(float ind) {
         if (ij > 7 or _skip) {
 
             int result = _g.eredmeny(_you,_it,_tied,_ove,who_won);
+            who_won = 0;
             if (result == 1) {
                 _ymax += _pot;
             }
